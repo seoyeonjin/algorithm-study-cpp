@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Ignore vscode
+.vscode/*
+
+# Ignore tempCodeRunnerFile.cpp
+tempCodeRunnerFile.cpp
